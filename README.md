@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 🔭 Hi, I am Joseph and I am a superb Web Developer. 
+
 🌱 I have fun while building solutions that help companies scale. 
+
 👯 I am currently learning Software Development at Microverse, an online coding school.
+
 ⚡ Check out <a href="https://jolak5.github.io/Portfolio/">My Portfolio</a>
+
 💬 Asides coding, my closely related interest is tech recruiting.
 
