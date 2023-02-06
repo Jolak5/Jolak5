@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 Hi, I am Joseph and I am a superb Web Developer. 
+🌱 My skills includes HTML, CSS, JavaScript, Bootstrap, ReactJS, Ruby on Rails, SQL, Database management. 
 
 🌱 I have fun while building solutions that help companies scale. 
 
