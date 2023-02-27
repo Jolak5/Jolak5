@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🌱 Email Address: https://kayodej4@gmail.com
 
 
-🌱 I am open to hire
+🌱 <strong>I am open to hire</strong>
 
 🌱 I have fun while building solutions that help companies scale. 
 
