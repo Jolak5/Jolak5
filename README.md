@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 🌱 My skills includes HTML, CSS, JavaScript, Bootstrap, ReactJS, Ruby on Rails, SQL, Database management. 
 
-Email Address: https://kayodej4@gmail.com
 
-I am open to hire
+🌱 Email Address: https://kayodej4@gmail.com
+
+
+🌱 I am open to hire
 
 🌱 I have fun while building solutions that help companies scale. 
 
